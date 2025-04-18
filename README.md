@@ -18,7 +18,13 @@ Repeat until you forget the original word
 
 🚀 Tech Stuff
 React + TypeScript
-
 Fetch API
-
 Datamuse endpoint: https://api.datamuse.com/words?rel_syn=yourword
+
+🖼 Known issues
+UI looks like it time-traveled from 2005
+No loading spinner — it's a trust exercise
+No error handling — hope for the best
+
+🧠 Why?
+Because sometimes you just want to say “loquacious” instead of “chatty.”
